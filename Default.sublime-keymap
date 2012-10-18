@@ -1,0 +1,7 @@
+[
+  {
+    "keys": ["super+e", "n"],
+    "command": "notify",
+    "args": {"title": "Sublime Text 2", "message": "Hello World!!"}
+  }
+]

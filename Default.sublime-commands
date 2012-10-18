@@ -1,0 +1,7 @@
+[
+  {
+    "caption": "NotificationCenter: Notify",
+    "command": "notify",
+    "args": {"title": "Sublime Text 2", "message": "Hello World!!"}
+  }
+]
