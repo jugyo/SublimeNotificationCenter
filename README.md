@@ -1,6 +1,8 @@
 NotificationCenter
 ========
 
+You can notify a message from Sublime Text 2 at any time.
+
 ## Installation
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
